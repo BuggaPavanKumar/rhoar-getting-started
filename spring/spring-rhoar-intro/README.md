@@ -1,5 +1,5 @@
 # Reference:
-https://www.katacoda.com/openshift/courses/developing-with-spring/spring-getting-started
+    https://www.katacoda.com/openshift/courses/developing-with-spring/spring-getting-started
 
 # Performed below changes
 
@@ -23,8 +23,8 @@ https://www.katacoda.com/openshift/courses/developing-with-spring/spring-getting
     </dependency>
 
 ## Test Apllication
-mvn spring-boot:run
+    mvn spring-boot:run
 
 ## Run and verify
-mvn verify
-mvn spring-boot:run -DskipTests     // NOTE: We skip the tests to speed up the start
+    mvn verify
+    mvn spring-boot:run -DskipTests     // NOTE: We skip the tests to speed up the start
